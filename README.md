@@ -9,7 +9,7 @@ Gitar akor şemaları, parmak basış rehberi, canlı transpoze (ton değiştiri
 
 ## 🚀 Hızlı Başlangıç
 1. Bu repoyu klonlayın.
-2.  dosyasını tarayıcıda açın.
+2. `index.html` dosyasını tarayıcıda açın.
 
 
 
